@@ -16,6 +16,7 @@ credentials.*
 # Go build outputs and test coverage
 /bin/
 /build/
+appointments.csv
 *.exe
 *.dll
 *.so

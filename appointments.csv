@@ -1,0 +1,11 @@
+ApptID,PatientName,DoctorName,Date,Status
+1,Jamie Sample,Dr. Chen,2026-10-15,Canceled
+2,ram,dr.johny,2026-09-12,Scheduled
+3,Alex Johnson,Dr. Smith,2026-11-05,Completed
+4,Emily Davis,Dr. Brown,2026-10-20,Canceled
+5,Michael Lee,Dr. Wilson,2026-09-30,Completed
+6,Sarah Miller,Dr. Taylor,2026-10-25,Canceled
+7,raju bhaya,dr.katie,2024-10-23,Scheduled
+8,fahad fazil,Dr.Stark,2026-08-17,Scheduled
+9,subash,Dr.Aravind,2026-09-18,Scheduled
+10,rahul,Dr.Smith,2026-10-05,Completed
