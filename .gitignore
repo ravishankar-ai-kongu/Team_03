@@ -1,0 +1,36 @@
+﻿# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.*
+credentials.*
+*.pem
+*.key
+
+# Local VS Code settings (shared launch/tasks files may be committed)
+/.vscode/*
+!/.vscode/extensions.json
+!/.vscode/launch.json
+!/.vscode/tasks.json
+
+# Go build outputs and test coverage
+/bin/
+/build/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.*
+go.work
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
